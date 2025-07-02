@@ -1,3 +1,4 @@
+import React from "react";
 export default function Certificates() {
   return (
     <section className="p-8">

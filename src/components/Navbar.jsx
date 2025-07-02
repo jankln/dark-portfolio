@@ -1,3 +1,4 @@
+import React from "react";
 export default function Navbar({ toggleDarkMode }) {
   return (
     <nav className="flex justify-between p-4 bg-gray-800">
